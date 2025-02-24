@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python when calculating the average of a list of numbers. The initial code fails to handle empty lists and lists containing non-numeric elements, causing runtime errors. The solution provides robust error handling to address these issues, ensuring the function works correctly under various input conditions.
